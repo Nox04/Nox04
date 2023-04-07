@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/noxklax" target="blank"><img src="https://img.shields.io/twitter/follow/noxklax?logo=twitter&style=for-the-badge" alt="noxklax" /></a> </p>
 
-- 🌱 I’m currently learning **Go.**
+- 🌱 I’m currently learning **Fine-tuning LLMs.**
 
 - 👨‍💻 All of my projects are available at [https://juanangarita.com/](https://juanangarita.com/)
 
